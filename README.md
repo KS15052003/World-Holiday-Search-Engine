@@ -1,4 +1,4 @@
-# World-Holiday-Search-Engine
+# Global-Holiday-Search-Engine
 
 I'd be glad to craft a comprehensive README.md description for your World-Holiday-Search-Engine project on GitHub, incorporating HTML, CSS, and JavaScript:
 
